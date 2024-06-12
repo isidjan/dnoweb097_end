@@ -12,7 +12,7 @@ A partir del levantamiento de información de distintos informes y bases de dato
 ### D2: Mujeres madres privadas de libertad
 | Indicador                                                                     | Técnica/instrumento                   |
 |-------------------------------------------------------------------------------|---------------------------------------|
-| Cantidad de mujeres embarazadas en la cárce                                   | -                                     |
+| Cantidad de mujeres embarazadas en la cárcel                                  | -                                     |
 | Cantidad de hijos                                                             | -                                     |
 | Como es diferente cuando El papa esta en la cárcel vs la mamá                 | -                                     |
 
@@ -23,18 +23,19 @@ A partir del levantamiento de información de distintos informes y bases de dato
 | Lo que recomienda la OMS (Apego, lactancia) vs la realidad                    | -                                     |
 | Posición de Chile en cuanto a tiempo que hijos pueden estar con madres        | -                                     |
 
-### D4: Testimonios vida real                                                   | Técnica/instrumento                   |
+### D4: Testimonio vida real
+| Indicador                                                                     | Técnica/instrumento                   |
 |-------------------------------------------------------------------------------|---------------------------------------|
-| Historia 1                                                                    | -                                     |
-| Historia 2                                                                    | -                                     |
-| Historia 3                                                                    | -                                     |
+| Relato 1                                                                      | -                                     |
+| Relato 2                                                                      | -                                     |
+| Relato 3                                                                      | -                                     |
 
-### D5: Proyecto ley Sayen                                                      | Técnica/instrumento                   |
+### D5: Proyecto Ley Sayen
+| Indicador                                                                     | Técnica/instrumento                   |
 |-------------------------------------------------------------------------------|---------------------------------------|
 | Quién fue Sayen                                                               | -                                     |
 | De qué trata la ley                                                           | -                                     |
-| En que está el proyecto                                                       | -                                     |
-
+| En qué esta el proyecto                                                       | -                                     |
 
 
 
