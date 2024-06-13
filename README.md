@@ -38,7 +38,11 @@ A partir del levantamiento de información de distintos informes y bases de dato
 | En qué esta el proyecto                                                       | -                                     |
 
 ## Antecedentes
-### 1. 
+### 1. [How access to abortion has changed - Reuters](https://www.reuters.com/graphics/USA-ABORTION/DISTANCE/zgpobowdqvd/)
+| PROS                                                                          | CONS                  |
+|-------------------------------------------------------------------------------|---------------------------------------|
+| - wtf                                                                         | -    wtf                                 |
+
 
 
 
