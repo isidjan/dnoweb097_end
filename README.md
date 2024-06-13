@@ -73,7 +73,7 @@ A partir del levantamiento de información de distintos informes y bases de dato
 |-------------------------------------------------------------------------------|---------------------------------------|
 | + Composición simple, directa y efectiva  | - Poquita información |
 | + Lector va encontrando información en la inmensidad gráfica  | -  No es interactiva                  |
-| + Decisiones estéticas alimentan lo que quiere comunicar | -  No creo que haya sido diseñada en específico oara formato web    |
+| + Decisiones estéticas alimentan lo que quiere comunicar (Cant de gente) | -  No creo que haya sido diseñada en específico para formato web    |
 
 
 
