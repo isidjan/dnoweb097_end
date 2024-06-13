@@ -41,8 +41,8 @@ A partir del levantamiento de información de distintos informes y bases de dato
 ### 1. [How access to abortion has changed - Reuters](https://www.reuters.com/graphics/USA-ABORTION/DISTANCE/zgpobowdqvd/)
 | PROS                                                                          | CONS                  |
 |-------------------------------------------------------------------------------|---------------------------------------|
-| - wtf                                                                         | -    wtf                                 |
-
+| - Coherencia y unión de estilo a lo largo de la narrativa                     | - Muy simple, poco atractiva          |
+  - Conscisa y directa a lo que quiere comunicar                                  - 
 
 
 
