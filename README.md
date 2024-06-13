@@ -41,16 +41,25 @@ A partir del levantamiento de información de distintos informes y bases de dato
 ### 1. [How access to abortion has changed - Reuters](https://www.reuters.com/graphics/USA-ABORTION/DISTANCE/zgpobowdqvd/)
 | PROS                                                                          | CONS                  |
 |-------------------------------------------------------------------------------|---------------------------------------|
-| - Coherencia y unión de estilo a lo largo de la narrativa                     | - Muy simple, poco atractiva          |
-| - Conscisa y directa a lo que quiere comunicar                                | - Poco interactiva                    |
-| - Trabajo mixto: gráficos y fotos vida real                                   | - Storytelling plano                  |
+| + Coherencia y unión de estilo a lo largo de la narrativa                     | - Muy simple, poco atractiva          |
+| + Conscisa y directa a lo que quiere comunicar                                | - Poco interactiva                    |
+| + Trabajo mixto: gráficos y fotos vida real                                   | - Storytelling plano                  |
 
 ### 2. [All you need to know about Hong Kong’s domestic national security law - SCMP](https://multimedia.scmp.com/infographics/news/hong-kong/article/3254557/article23law/index.html)
 | PROS                                                                          | CONS                  |
 |-------------------------------------------------------------------------------|---------------------------------------|
-| - Diagramación llamativa e interactiva                                        | - Variedad de visualizaciones puede distraer la atención de los que comunica? |
-| - De principio a fin atrapa la atención                                       | -                                     |
-| - Técnicas mixtas: Gráficos, ilustraciones, etc.                              | -                                     |
-| - Jerarquización de textos eficiente y efectiva.                              | -                                     |
+| + Diagramación llamativa e interactiva                                        | - Variedad de visualizaciones puede distraer la atención de los que comunica? |
+| + De principio a fin atrapa la atención                                       | -                                     |
+| + Técnicas mixtas: Gráficos, ilustraciones, etc.                              | -                                     |
+| + Jerarquización de textos eficiente y efectiva.                              | -                                     |
+
+### 3. [Emptying Ukraine’s Orphanages - Reuters](https://www-reuters-com.translate.goog/graphics/UKRAINE-CRISIS/ORPHANS/dwpkrxzwwvm/?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=sc)
+| PROS                                                                          | CONS                  |
+|-------------------------------------------------------------------------------|---------------------------------------|
+| + Uso de elementos gráficos a favor de la narrativa que se quiere comunicar   | - No sabría como programar algunas de funciones que se emplean |
+| + Ritmo y flujo en la aparición de gráficos y fotos, que info va apareciendo sobre gráficos antes de agregar elementos  | -                    |
+| + Segmentación de temas puede ser útil de aplicar con mi temática y dimensiones | -                                     |
+| + Cuidado y calidad de los elementos gráficos potencia la humanización del tema | -                                     |
+| + Gráficos muy trabajados y atractivos                                          | -                                     |
 
 
