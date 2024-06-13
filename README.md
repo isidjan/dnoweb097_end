@@ -75,6 +75,10 @@ A partir del levantamiento de información de distintos informes y bases de dato
 | + Lector va encontrando información en la inmensidad gráfica  | -  No es interactiva                  |
 | + Decisiones estéticas alimentan lo que quiere comunicar (Cant de gente) | -  No creo que haya sido diseñada en específico para formato web    |
 
+## Wireframe - Boceto
+### Work in process
+
+
 
 
 
