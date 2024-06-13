@@ -45,7 +45,7 @@ A partir del levantamiento de información de distintos informes y bases de dato
 | - Conscisa y directa a lo que quiere comunicar                                | - Poco interactiva                    |
 | - Trabajo mixto: gráficos y fotos vida real                                   | - Storytelling plano                  |
 
-### 2. [All you need to know about Hong Kong’s domestic national security law - SCMP](https://www.reuters.com/graphics/USA-ABORTION/DISTANCE/zgpobowdqvd/](https://multimedia.scmp.com/infographics/news/hong-kong/article/3254557/article23law/index.html)
+### 2. [All you need to know about Hong Kong’s domestic national security law - SCMP](https://multimedia.scmp.com/infographics/news/hong-kong/article/3254557/article23law/index.html)
 | PROS                                                                          | CONS                  |
 |-------------------------------------------------------------------------------|---------------------------------------|
 | - Diagramación llamativa e interactiva                                        | - Variedad de visualizaciones puede distraer la atención de los que comunica? |
