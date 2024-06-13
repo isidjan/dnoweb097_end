@@ -62,4 +62,12 @@ A partir del levantamiento de información de distintos informes y bases de dato
 | + Cuidado y calidad de los elementos gráficos potencia la humanización del tema | -                                     |
 | + Gráficos muy trabajados y atractivos                                          | -                                     |
 
+### 4. [Jail deaths in America: data and key findings of Dying Inside - Reuters](https://www.reuters.com/investigates/special-report/usa-jails-graphic/)
+| PROS                                                                          | CONS                  |
+|-------------------------------------------------------------------------------|---------------------------------------|
+| + Ver como se ha trabajado la temática de cárcel    | - Poca información, por lo tanto no se muestra mucha estructura en la infografía |
+| + Mostrar hallazgos/Porcentajes con imágenes de fondo que cambian es atractivo  | -                    |
+
+
+
 
