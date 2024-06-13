@@ -42,7 +42,7 @@ A partir del levantamiento de información de distintos informes y bases de dato
 | PROS                                                                          | CONS                  |
 |-------------------------------------------------------------------------------|---------------------------------------|
 | - Coherencia y unión de estilo a lo largo de la narrativa                     | - Muy simple, poco atractiva          |
-  - Conscisa y directa a lo que quiere comunicar                                  - 
-
+| - Conscisa y directa a lo que quiere comunicar                                | - Poco interactiva                    |
+| - Trabajo mixto: gráficos y fotos vida real                                   | - Storytelling plano                  |
 
 
