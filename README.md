@@ -68,6 +68,14 @@ A partir del levantamiento de información de distintos informes y bases de dato
 | + Ver como se ha trabajado la temática de cárcel    | - Poca información, por lo tanto no se muestra mucha estructura en la infografía |
 | + Mostrar hallazgos/Porcentajes con imágenes de fondo que cambian es atractivo  | -                    |
 
+### 5. [Arrested development - SCMP](https://multimedia.scmp.com/culture/article/SCMP-printed-graphics-memory/lonelyGraphics/202006A262.html)
+| PROS                                                                          | CONS                  |
+|-------------------------------------------------------------------------------|---------------------------------------|
+| + Composición simple, directa y efectiva  | - Poquita información |
+| + Lector va encontrando información en la inmensidad gráfica  | -  No es interactiva                  |
+| + Decisiones estéticas alimentan lo que quiere comunicar | -  No creo que haya sido diseñada en específico oara formato web    |
+
+
 
 
 
